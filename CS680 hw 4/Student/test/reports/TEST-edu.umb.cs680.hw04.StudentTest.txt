@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw04.StudentTest
+Test: InStateStudentVerification() took 55 milli sec(s)
+Test: OutStateStudentVerification() took 2 milli sec(s)
+Test: IntlStudentVerification() took 1 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 92 milli sec(s)

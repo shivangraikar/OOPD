@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw03.PrimeGeneratorTest
+Test: OneToTwentyPrimeTest() took 70 milli sec(s)
+Test: ThirtyToFiftyPrimeTest() took 2 milli sec(s)
+Test: NegativeNumberTest() took 7 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 115 milli sec(s)
