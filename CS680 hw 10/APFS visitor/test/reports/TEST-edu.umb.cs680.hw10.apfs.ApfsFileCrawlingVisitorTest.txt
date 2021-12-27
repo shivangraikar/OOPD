@@ -1,0 +1,15 @@
+Testcase: edu.umb.cs680.hw10.apfs.ApfsFileCrawlingVisitorTest
+Test: fileEqualityCheckCode() took 4 milli sec(s)
+Test: fileEqualityCheckHome() took 1 milli sec(s)
+Test: fileEqualityCheckPics() took 1 milli sec(s)
+Test: fileEqualityCheckRoot() took 2 milli sec(s)
+Test: fileEqualityCheckApplications() took 1 milli sec(s)
+Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 14 milli sec(s)
+------------- Standard Output ---------------
+a
+c
+d
+e
+f
+b
+------------- ---------------- ---------------

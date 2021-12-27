@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw10.apfs.APFSTest
+Test: capacityTest() took 41 milli sec(s)
+Test: verifyInstanceEquality() took 3 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 119 milli sec(s)
