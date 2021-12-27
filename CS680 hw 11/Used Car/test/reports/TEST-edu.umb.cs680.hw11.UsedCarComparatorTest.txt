@@ -1,0 +1,6 @@
+Testcase: edu.umb.cs680.hw11.UsedCarComparatorTest
+Test: ParetoComparator() took 39 milli sec(s)
+Test: YearComparator() took 8 milli sec(s)
+Test: MileageComparator() took 3 milli sec(s)
+Test: PriceComparator() took 2 milli sec(s)
+Tests run: 4, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 78 milli sec(s)
