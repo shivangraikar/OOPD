@@ -1,0 +1,12 @@
+Testcase: edu.umb.cs680.hw09.apfs.ApfsFileTest
+Test: isDirectoryTest() took 2 milli sec(s)
+Test: verifyApfsFileEqualityA() took 2 milli sec(s)
+Test: verifyApfsFileEqualityB() took 1 milli sec(s)
+Test: verifyApfsFileEqualityC() took 2 milli sec(s)
+Test: verifyApfsFileEqualityD() took 1 milli sec(s)
+Test: verifyApfsFileEqualityE() took 1 milli sec(s)
+Test: verifyApfsFileEqualityF() took 1 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 17 milli sec(s)
+------------- Standard Output ---------------
+applications
+------------- ---------------- ---------------
