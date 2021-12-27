@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw08.FileSystemTest
+Test: checkRootDir() took 20 milli sec(s)
+Test: checkSingletonFileSystem() took 7 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 36 milli sec(s)
